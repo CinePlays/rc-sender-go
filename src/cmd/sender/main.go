@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/stianeikeland/go-rpio/v4"
+	"github.com/cineplays/go-rpio"
 )
 
 var protocols []Protocol;
